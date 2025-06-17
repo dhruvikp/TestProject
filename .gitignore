@@ -1,0 +1,80 @@
+# ================== Python ==================
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.bak
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# ================== Java ==================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.bak
+*.tmp
+*.swp
+
+# Build directories
+build/
+target/
+out/
+
+# Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# ================== Node.js ==================
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log
+package-lock.json
+yarn.lock
+dist/
+build/
+.next/
+.out/
+.eslintcache
+coverage/
+
+# ================== IDEs & Editors ==================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ================== OS / Environment ==================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ================== Misc ==================
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+*.tar
+*.gz
+*.7z
